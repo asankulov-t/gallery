@@ -12,7 +12,7 @@
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "http://asankulov-t.github.io/gellery",
+  "homepage": "https://asankulov-t.github.io/gellery",
   "scripts": {
     "start": "npm run watch:css && react-scripts start",
     "build": "npm run build:css && react-scripts build",
